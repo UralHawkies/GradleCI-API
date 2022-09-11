@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rerig0ir0csep1qk?svg=true)](https://ci.appveyor.com/project/UralHawkies/gradleci-api)
